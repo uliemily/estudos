@@ -274,6 +274,7 @@
           <main class="page-content">
           <button type="button" class="btn btn-primary">Primary</button>
             <table class="table">
+              <input type='text'>
   <thead>
     <tr>
       <th scope="col">#</th>
